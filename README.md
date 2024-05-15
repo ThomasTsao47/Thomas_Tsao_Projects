@@ -9,7 +9,7 @@
 * 使用工具：Microsoft Excel 2019（Pivot tables, charts, formulas, conditional formatting, data cleaning, etc.）
 
 [完整內容請點擊此處](https://thomastsao47.github.io/Call_Center_Project/)<br><br>
-![Dashboard Overview](https://github.com/ThomasTsao47/Call_Center_Project/blob/main/Images/Dashboard_Overview.png) 
+![Dashboard Overview](Images/Dashboard_Overview.png) 
 
 
 ## 臺灣 YouTube 頻道策略分析與優化（Python）
@@ -20,4 +20,4 @@
 * 使用工具：[YouTube Data API (v3)](https://developers.google.com/youtube/v3/getting-started?hl=zh-tw)，Python 3.10.12（requests，pandas，matplotlib，seaborn，os，asyncio，aiohttp，tqdm，nest_asyncio，ast，re）
 
 [完整內容請點擊此處](https://thomastsao47.github.io/Youtube_Project/)<br><br>
-![Img8](https://github.com/ThomasTsao47/Youtube_Project/blob/main/Images/08_Top10_Videos.png)<br>
+![Img8](Images/08_Top10_Videos.png)<br>
