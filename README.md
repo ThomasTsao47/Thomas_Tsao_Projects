@@ -1,5 +1,16 @@
 # Data Projects by Thomas Tsao
 
+## 臺灣 YouTube 頻道策略分析與優化（Python）
+
+### 專案概述
+* 為了解臺灣知名 Youtube 頻道（包含Joeman，木曜4超玩，志祺七七X圖文不符，Dcard Video，Men's Game 玩物誌）經營 YT 的相關策略及表現，因此分析頻道訂閱數，影片數，觀看數，觀眾互動程度，影片發布策略，影片文字設定策略等，以了解各頻道間的差異，並提供相關決策建議，期望提升影片點擊率及吸引目標用戶。
+* 資料集：[Datasets](https://github.com/ThomasTsao47/Youtube_Project/tree/main/Data)
+* 使用工具：[YouTube Data API (v3)](https://developers.google.com/youtube/v3/getting-started?hl=zh-tw)，Python 3.10.12（requests，pandas，matplotlib，seaborn，os，asyncio，aiohttp，tqdm，nest_asyncio，ast，re）
+
+[完整內容請點擊此處](https://thomastsao47.github.io/Youtube_Project/)<br><br>
+![Youtube_heatmap](Images/Youtube_heatmap.png)<br>
+
+
 ## 客戶服務分析與優化（Excel）
 
 ### 專案概述
@@ -9,15 +20,4 @@
 * 使用工具：Microsoft Excel 2019（Pivot tables, charts, formulas, conditional formatting, data cleaning, etc.）
 
 [完整內容請點擊此處](https://thomastsao47.github.io/Call_Center_Project/)<br><br>
-![Dashboard Overview](Images/Dashboard_Overview.png) 
-
-
-## 臺灣 YouTube 頻道策略分析與優化（Python）
-
-### 專案概述
-* 為了解臺灣知名 Youtube 頻道（包含Joeman，木曜4超玩，志祺七七X圖文不符，Dcard Video，Men's Game 玩物誌）經營 YT 的相關策略及表現，因此分析頻道訂閱數，影片數，觀看數，觀眾互動程度，影片發布策略，影片文字設定策略等，以了解各頻道間的差異，並提供相關決策建議，期望提升影片點擊率及吸引目標用戶。
-* 資料集：[Datasets](https://github.com/ThomasTsao47/Youtube_Project/tree/main/Data)
-* 使用工具：[YouTube Data API (v3)](https://developers.google.com/youtube/v3/getting-started?hl=zh-tw)，Python 3.10.12（requests，pandas，matplotlib，seaborn，os，asyncio，aiohttp，tqdm，nest_asyncio，ast，re）
-
-[完整內容請點擊此處](https://thomastsao47.github.io/Youtube_Project/)<br><br>
-![Img8](Images/08_Top10_Videos.png)<br>
+![Dashboard Overview](Images/Call_Center_Dashboard.png) 
