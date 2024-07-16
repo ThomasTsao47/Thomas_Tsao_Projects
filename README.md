@@ -10,7 +10,7 @@
   * **AI工具：[ChatGPT-4o](https://openai.com/index/hello-gpt-4o/)（提供分析框架靈感及數據洞察，代碼優化），[Claude 3.5](https://www.anthropic.com/news/claude-3-5-sonnet)（提供用戶行為路徑流程圖設計靈感）**
   * **繪圖軟體：[draw.io](https://app.diagrams.net/)（製作預測模型情境圖）**
 
-**[完整內容請點擊此處](https://thomastsao47.github.io/Ecommerce_Project/)<br><br>**
+**[請點擊此處觀看](https://thomastsao47.github.io/Ecommerce_Project/)<br><br>**
 ![Ecommerce_Discount_Situation](Images/Ecommerce_Discount_Situation.png)<br>
 
 
@@ -22,7 +22,7 @@
 * **資料筆數：32,940筆**
 * **使用工具：Microsoft Excel 2019（Pivot tables, charts, formulas, conditional formatting, data cleaning, etc.）**
 
-**[完整內容請點擊此處](https://thomastsao47.github.io/Call_Center_Project/)<br><br>**
+**[請點擊此處觀看](https://thomastsao47.github.io/Call_Center_Project/)<br><br>**
 ![Dashboard Overview](Images/Call_Center_Dashboard.png) 
 
 
@@ -35,5 +35,5 @@
   * **[YouTube Data API (v3)](https://developers.google.com/youtube/v3/getting-started?hl=zh-tw)（收集 Youtube 頻道數據）**
   * **程式語言：Python 3.10.12（requests，pandas，matplotlib，seaborn，os，asyncio，aiohttp，tqdm，nest_asyncio，ast，re）**
 
-**[完整內容請點擊此處](https://thomastsao47.github.io/Youtube_Project/)<br><br>**
+**[請點擊此處觀看](https://thomastsao47.github.io/Youtube_Project/)<br><br>**
 ![Youtube_heatmap](Images/Youtube_heatmap.png)<br>
